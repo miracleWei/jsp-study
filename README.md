@@ -2,7 +2,9 @@
 
 参考文档：
 
-Java Web(五) JSP详解(四大作用域九大内置对象等)  https://www.cnblogs.com/whgk/p/6427759.html
+* Java Web(五) JSP详解(四大作用域九大内置对象等)  https://www.cnblogs.com/whgk/p/6427759.html
+
+* JSP详解，看这一篇就够了（含示例） https://blog.csdn.net/2301_79858914/article/details/139302163
 
 
 
